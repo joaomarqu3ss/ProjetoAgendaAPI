@@ -1,6 +1,6 @@
 # Projeto Agenda API
 
-Este é um projeto de uma API RESTful para gerenciamento de contatos de agenda, desenvolvido com Spring Boot e PostgreSQL. O objetivo é fornecer um backend robusto para operações de CRUD em contatos.
+Este é um projeto de uma API RESTful para gerenciamento de tarefas em agenda, desenvolvido com Spring Boot e PostgreSQL. O objetivo é fornecer um backend robusto para operações de CRUD em tarefas.
 
 ---
 
