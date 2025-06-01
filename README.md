@@ -33,10 +33,10 @@ Este é um projeto de uma API RESTful para gerenciamento de tarefas em agenda, d
 
 ## 🚀 Funcionalidades
 
-- ✅ Cadastro de contatos
-- ✅ Listagem de contatos
-- ✅ Atualização de dados de contatos
-- ✅ Exclusão de contatos
+- ✅ Cadastro de tarefas
+- ✅ Listagem de tarefas
+- ✅ Atualização de dados de tarefas
+- ✅ Exclusão de tarefas
 - ✅ Validação de entrada de dados
 - ✅ Documentação Swagger/OpenAPI
 - ✅ Integração com banco de dados PostgreSQL
